@@ -1,0 +1,66 @@
+﻿.navbar-brand {
+	padding-left: 10%;
+}
+.navbar-nav1 {
+	padding-left:70%;
+	padding-right:10%;
+}
+
+
+
+.header {
+	/*background-size: cover;
+	background-position: center;
+	position: relative;
+	z-index: 1;*/
+	background-image: url('../image/74911514_979485572388178_4713711398880804864_n.jpg');
+	padding-left:20%;
+	padding-top:100px;
+	padding-bottom:100px;
+}
+.form {
+}
+pz {
+	font-size:50px;
+	color:aliceblue;
+}
+pz1 {
+	font-size: 30px;
+	color: aliceblue;
+}
+pz2 {
+	font-size: 15px;
+	color: aliceblue;
+}
+.bt1 {
+	font-size: 30px;
+}
+
+
+.under {
+text-align:center;
+padding:50px;
+}
+u1 {
+font-size:50px;
+}
+u2 {
+	font-size: 25px;
+}
+.bu {
+margin-bottom:10px;
+}
+
+
+
+
+
+
+@font-face {
+	font-family: 'EkkamaiStandard-Light';
+	src: url('../Font/EkkamaiStandard-Light.ttf') format('truetype');
+}
+
+* {
+	font-family: 'EkkamaiStandard-Light';
+}

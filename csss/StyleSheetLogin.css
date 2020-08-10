@@ -1,0 +1,66 @@
+﻿body {
+	background-image: url('../image/bg-01.jpg');
+	background-size: cover;
+	background-position: center;
+	position: relative;
+	z-index: 1;
+	width: 100%;
+	margin: 0 auto;
+	min-height: 100vh;
+	width: 100%;
+	min-height: 100vh;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -webkit-flex;
+	display: -webkit-flex;
+	display: -webkit-flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+}
+
+
+.Login {
+	width: 800px;
+	background-color: white;
+	border: 2px;
+	border-radius: 10px;	
+	padding-bottom:10px;
+	padding-top:10px;
+}
+
+
+input[type=text], select {
+	width: 100%;
+	padding: 12px 20px;
+	margin: 8px 0;
+	display: inline-block;
+	/*border: 1px solid #ccc;
+	border-radius: 4px;*/
+	box-sizing: border-box;
+	border: none;
+	border-bottom:2x solid red;
+}
+@font-face {
+	font-family: 'EkkamaiStandard-Light';
+	src: url('../Font/EkkamaiStandard-Light.ttf') format('truetype');
+}
+
+* {
+	font-family: 'EkkamaiStandard-Light';
+}
+h {
+	font-size: 30px;
+	/*font-family: 'Ubuntu-Bold';*/
+}
+
+input[type=submit] {
+    width: 100%;
+    /*background-color: #4CAF50;*/
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}

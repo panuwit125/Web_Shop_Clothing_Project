@@ -1,0 +1,57 @@
+﻿.header {
+	text-align: center;
+	padding: 20px;
+	background-image: url('../image/WMNS_XCAT_LOOKBOOK_Danielle_Launch_WGLP_DT_tcm221-413093.jpg');
+	height: 500px;
+	padding-left: 1%;
+	padding-top: 150px;
+	padding-bottom: 100px;
+}
+
+
+
+.form {
+}
+pz {
+	font-size: 70px;
+	color: aliceblue;
+}
+pz1 {
+	font-size: 50px;
+	color: aliceblue;
+}
+pz2 {
+	font-size: 25px;
+	color: aliceblue;
+}
+.bt1 {
+	font-size: 30px;
+	border-radius:10px;
+}
+
+
+.flashform {
+width:100%;
+
+}
+fs {
+	font-size:30px;
+	padding-left:20px;
+}
+
+
+.imgpd {
+	max-width:2330px;
+	max-height:233px;
+	width:auto;
+	height:auto;
+	position:relative;
+}
+
+@font-face {
+	font-family: 'FC Lamoon Bold ver 1.00';
+	src: url('../Font/FC Lamoon Bold ver 1.00.ttf') format('truetype');
+}
+* {
+	font-family: 'FC Lamoon Bold ver 1.00';
+}
